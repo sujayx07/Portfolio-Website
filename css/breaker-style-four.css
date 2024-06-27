@@ -6,7 +6,7 @@
 #breaker{
     height: 200vh;
     width: 200%;
-    background-color: #c70039;
+    background-color: #FFDE59;
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
