@@ -606,13 +606,12 @@ body {
 }
 
 .cv a button {
-    background: transparent;
     border: none;
-    padding: 15px 30px;
+    padding: 25px 35px;
     color: whitesmoke;
-    background: #FFDE59;
     outline: none;
-    font-size: 20px;
+    background-color: #c70039;
+    font-size: 30px;
     font-family: aileron;
     border-radius: 4px;
     font-weight: 400;
