@@ -607,13 +607,13 @@ body {
 
 .cv a button {
     border: none;
-    padding: 25px 35px;
+    padding: 20px 30px;
     color: whitesmoke;
     outline: none;
     background-color: #c70039;
-    font-size: 30px;
+    font-size: 20px;
     font-family: aileron;
-    border-radius: 4px;
+    border-radius: 6px;
     font-weight: 400;
     cursor: pointer;
     position: relative;
@@ -2065,6 +2065,7 @@ for tabs and large phones
         width: auto;
 
     }
+    
 
     #about-content {
         display: flex;
@@ -2143,14 +2144,14 @@ for tabs and large phones
         padding: 20px 30px;
         color: whitesmoke;
         outline: none;
+        background-color: #c70039;
         font-size: 20px;
         font-family: aileron;
-        border-radius: 8px;
+        border-radius: 6px;
         font-weight: 400;
         cursor: pointer;
         position: relative;
         transition: all .4s ease;
-
     }
 
     .service {
